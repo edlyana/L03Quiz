@@ -25,8 +25,6 @@ const styles = StyleSheet.create({
     enterName:{
         marginTop: 20,
         fontSize: 18,
-        // alignItems: 'center',
-        // backgroundColor: 'skyblue',
     },
     questionText:{
         fontSize: 19,
